@@ -1,5 +1,5 @@
 - 👋 Hi, I’m...  Mohammad Abid Aqbal
-- 👀 I’m interested in ... coding language 
+- 👀 I’m interested in ... Latest Technology  
 - 🌱 I’m currently learning ...  Machine Learning 
 - 💞️ I’m looking to collaborate on ...  PG DATA SCIENCE AND AI
 - 📫 How to reach me ...  www.linkedin.com/in/abid-
